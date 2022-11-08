@@ -1,9 +1,9 @@
-# SSH3201
+# PolyMTL grade comparison
 
 ---
 
 
-In this repository, you can find jupyter notebooks that allow you to compare your grades of the **SSH3201 course**.
+In this repository, you can find jupyter notebooks that allow you to compare your grades in several courses.
 
 To run the notebook, simply run it with an `ipykernel` kernel locally or directly online by uploading it to google colab.
 
